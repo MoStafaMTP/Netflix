@@ -1,0 +1,1275 @@
+[
+  {
+    "id": 1,
+    "title": "Midnight Protocol",
+    "description": "Two rivals are forced together on a heist that could end them both.",
+    "poster": "https://picsum.photos/seed/poster1/400/600",
+    "backdrop": "https://picsum.photos/seed/back1/1280/720",
+    "rating": 7.8,
+    "releaseDate": "2019-02-07",
+    "duration": 95,
+    "genres": [
+      "Action",
+      "Documentary"
+    ],
+    "cast": [
+      {
+        "name": "Caleb Stone",
+        "character": "Jordan"
+      },
+      {
+        "name": "Aisha Khan",
+        "character": "Jordan"
+      },
+      {
+        "name": "Soren Pax",
+        "character": "Quinn"
+      },
+      {
+        "name": "Jonas Reid",
+        "character": "Alex"
+      }
+    ],
+    "director": "Noah Bennett",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": true,
+    "popular": true,
+    "topRated": false,
+    "newRelease": false
+  },
+  {
+    "id": 2,
+    "title": "Crimson Horizon",
+    "description": "Two rivals are forced together on a heist that could end them both.",
+    "poster": "https://picsum.photos/seed/poster2/400/600",
+    "backdrop": "https://picsum.photos/seed/back2/1280/720",
+    "rating": 9.3,
+    "releaseDate": "2021-05-05",
+    "duration": 135,
+    "genres": [
+      "Documentary",
+      "Mystery"
+    ],
+    "cast": [
+      {
+        "name": "Vera Cole",
+        "character": "Casey"
+      },
+      {
+        "name": "Aisha Khan",
+        "character": "Alex"
+      },
+      {
+        "name": "Zara Quinn",
+        "character": "Sam"
+      },
+      {
+        "name": "Iris Moon",
+        "character": "Quinn"
+      }
+    ],
+    "director": "Marcus Vela",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": false,
+    "popular": false,
+    "topRated": true,
+    "newRelease": false
+  },
+  {
+    "id": 3,
+    "title": "Echoes of Tomorrow",
+    "description": "A small town hides a secret that refuses to stay buried.",
+    "poster": "https://picsum.photos/seed/poster3/400/600",
+    "backdrop": "https://picsum.photos/seed/back3/1280/720",
+    "rating": 8.9,
+    "releaseDate": "2022-02-18",
+    "duration": 138,
+    "genres": [
+      "Horror",
+      "Adventure"
+    ],
+    "cast": [
+      {
+        "name": "Tara Bell",
+        "character": "Casey"
+      },
+      {
+        "name": "Vera Cole",
+        "character": "Alex"
+      },
+      {
+        "name": "Nina Vale",
+        "character": "Avery"
+      },
+      {
+        "name": "Iris Moon",
+        "character": "Jordan"
+      }
+    ],
+    "director": "Priya Nair",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": false,
+    "popular": false,
+    "topRated": true,
+    "newRelease": false
+  },
+  {
+    "id": 4,
+    "title": "The Last Signal",
+    "description": "An agent goes off-grid to expose the network that betrayed her.",
+    "poster": "https://picsum.photos/seed/poster4/400/600",
+    "backdrop": "https://picsum.photos/seed/back4/1280/720",
+    "rating": 6.7,
+    "releaseDate": "2022-05-15",
+    "duration": 137,
+    "genres": [
+      "Documentary",
+      "Adventure"
+    ],
+    "cast": [
+      {
+        "name": "Maya Brooks",
+        "character": "Casey"
+      },
+      {
+        "name": "Felix Wren",
+        "character": "Jordan"
+      },
+      {
+        "name": "Aisha Khan",
+        "character": "Riley"
+      },
+      {
+        "name": "Hugo Lake",
+        "character": "Jordan"
+      }
+    ],
+    "director": "Diego Ramirez",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": false,
+    "popular": false,
+    "topRated": false,
+    "newRelease": false
+  },
+  {
+    "id": 5,
+    "title": "Velvet Shadows",
+    "description": "A detective chases a ghost through the neon underbelly of a sleepless city.",
+    "poster": "https://picsum.photos/seed/poster5/400/600",
+    "backdrop": "https://picsum.photos/seed/back5/1280/720",
+    "rating": 6.9,
+    "releaseDate": "2021-11-23",
+    "duration": 133,
+    "genres": [
+      "Documentary",
+      "Mystery",
+      "Animation"
+    ],
+    "cast": [
+      {
+        "name": "Jonas Reid",
+        "character": "Riley"
+      },
+      {
+        "name": "Iris Moon",
+        "character": "Sam"
+      },
+      {
+        "name": "Felix Wren",
+        "character": "Avery"
+      },
+      {
+        "name": "Lila Frost",
+        "character": "Quinn"
+      }
+    ],
+    "director": "Ava Sterling",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": false,
+    "popular": false,
+    "topRated": false,
+    "newRelease": false,
+    "progress": 25
+  },
+  {
+    "id": 6,
+    "title": "Iron Resolve",
+    "description": "When a deep-space signal returns, a crew must confront what they left behind.",
+    "poster": "https://picsum.photos/seed/poster6/400/600",
+    "backdrop": "https://picsum.photos/seed/back6/1280/720",
+    "rating": 7.0,
+    "releaseDate": "2022-11-15",
+    "duration": 123,
+    "genres": [
+      "War",
+      "Action"
+    ],
+    "cast": [
+      {
+        "name": "Felix Wren",
+        "character": "Riley"
+      },
+      {
+        "name": "Theo Hart",
+        "character": "Morgan"
+      },
+      {
+        "name": "Leo Marini",
+        "character": "Riley"
+      },
+      {
+        "name": "Maya Brooks",
+        "character": "Avery"
+      }
+    ],
+    "director": "Noah Bennett",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": false,
+    "popular": false,
+    "topRated": false,
+    "newRelease": false
+  },
+  {
+    "id": 7,
+    "title": "Beyond the Static",
+    "description": "A coming-of-age story set against a summer that changes everything.",
+    "poster": "https://picsum.photos/seed/poster7/400/600",
+    "backdrop": "https://picsum.photos/seed/back7/1280/720",
+    "rating": 8.1,
+    "releaseDate": "2020-11-06",
+    "duration": 141,
+    "genres": [
+      "Documentary",
+      "Fantasy",
+      "Horror"
+    ],
+    "cast": [
+      {
+        "name": "Hugo Lake",
+        "character": "Avery"
+      },
+      {
+        "name": "Nina Vale",
+        "character": "Jordan"
+      },
+      {
+        "name": "Aisha Khan",
+        "character": "Alex"
+      },
+      {
+        "name": "Jonas Reid",
+        "character": "Jordan"
+      }
+    ],
+    "director": "Omar Haddad",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": false,
+    "popular": false,
+    "topRated": false,
+    "newRelease": false
+  },
+  {
+    "id": 8,
+    "title": "Nocturne City",
+    "description": "A relentless thriller where one decision unravels an entire city's fragile peace.",
+    "poster": "https://picsum.photos/seed/poster8/400/600",
+    "backdrop": "https://picsum.photos/seed/back8/1280/720",
+    "rating": 9.3,
+    "releaseDate": "2022-03-15",
+    "duration": 125,
+    "genres": [
+      "Crime",
+      "Thriller",
+      "War"
+    ],
+    "cast": [
+      {
+        "name": "Eli Carter",
+        "character": "Casey"
+      },
+      {
+        "name": "Felix Wren",
+        "character": "Morgan"
+      },
+      {
+        "name": "Tara Bell",
+        "character": "Jordan"
+      },
+      {
+        "name": "Maya Brooks",
+        "character": "Casey"
+      }
+    ],
+    "director": "Noah Bennett",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": false,
+    "popular": true,
+    "topRated": true,
+    "newRelease": false
+  },
+  {
+    "id": 9,
+    "title": "Fractured Skies",
+    "description": "Family, ambition, and the price of holding on for too long.",
+    "poster": "https://picsum.photos/seed/poster9/400/600",
+    "backdrop": "https://picsum.photos/seed/back9/1280/720",
+    "rating": 7.2,
+    "releaseDate": "2023-09-01",
+    "duration": 94,
+    "genres": [
+      "Crime",
+      "Adventure"
+    ],
+    "cast": [
+      {
+        "name": "Iris Moon",
+        "character": "Riley"
+      },
+      {
+        "name": "Vera Cole",
+        "character": "Sam"
+      },
+      {
+        "name": "Felix Wren",
+        "character": "Morgan"
+      },
+      {
+        "name": "Caleb Stone",
+        "character": "Sam"
+      }
+    ],
+    "director": "Marcus Vela",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": false,
+    "popular": true,
+    "topRated": false,
+    "newRelease": false
+  },
+  {
+    "id": 10,
+    "title": "The Silent Tide",
+    "description": "When a deep-space signal returns, a crew must confront what they left behind.",
+    "poster": "https://picsum.photos/seed/poster10/400/600",
+    "backdrop": "https://picsum.photos/seed/back10/1280/720",
+    "rating": 6.6,
+    "releaseDate": "2025-09-25",
+    "duration": 152,
+    "genres": [
+      "War",
+      "Animation",
+      "Thriller"
+    ],
+    "cast": [
+      {
+        "name": "Zara Quinn",
+        "character": "Jordan"
+      },
+      {
+        "name": "Eli Carter",
+        "character": "Jordan"
+      },
+      {
+        "name": "Aisha Khan",
+        "character": "Avery"
+      },
+      {
+        "name": "Iris Moon",
+        "character": "Jordan"
+      }
+    ],
+    "director": "Noah Bennett",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": true,
+    "popular": false,
+    "topRated": false,
+    "newRelease": true
+  },
+  {
+    "id": 11,
+    "title": "Ashfall",
+    "description": "An intimate drama about loss, memory, and the long road back to belonging.",
+    "poster": "https://picsum.photos/seed/poster11/400/600",
+    "backdrop": "https://picsum.photos/seed/back11/1280/720",
+    "rating": 7.0,
+    "releaseDate": "2022-09-15",
+    "duration": 100,
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "cast": [
+      {
+        "name": "Vera Cole",
+        "character": "Riley"
+      },
+      {
+        "name": "Aisha Khan",
+        "character": "Casey"
+      },
+      {
+        "name": "Caleb Stone",
+        "character": "Quinn"
+      },
+      {
+        "name": "Hugo Lake",
+        "character": "Morgan"
+      }
+    ],
+    "director": "Sofia Bianchi",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": false,
+    "popular": true,
+    "topRated": false,
+    "newRelease": false,
+    "progress": 18
+  },
+  {
+    "id": 12,
+    "title": "Quantum Drift",
+    "description": "A detective chases a ghost through the neon underbelly of a sleepless city.",
+    "poster": "https://picsum.photos/seed/poster12/400/600",
+    "backdrop": "https://picsum.photos/seed/back12/1280/720",
+    "rating": 7.0,
+    "releaseDate": "2019-06-03",
+    "duration": 154,
+    "genres": [
+      "Fantasy",
+      "Crime"
+    ],
+    "cast": [
+      {
+        "name": "Zara Quinn",
+        "character": "Jordan"
+      },
+      {
+        "name": "Iris Moon",
+        "character": "Alex"
+      },
+      {
+        "name": "Aisha Khan",
+        "character": "Riley"
+      },
+      {
+        "name": "Eli Carter",
+        "character": "Jordan"
+      }
+    ],
+    "director": "Diego Ramirez",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": true,
+    "popular": false,
+    "topRated": false,
+    "newRelease": false
+  },
+  {
+    "id": 13,
+    "title": "Hollow Crown",
+    "description": "A coming-of-age story set against a summer that changes everything.",
+    "poster": "https://picsum.photos/seed/poster13/400/600",
+    "backdrop": "https://picsum.photos/seed/back13/1280/720",
+    "rating": 7.5,
+    "releaseDate": "2024-07-12",
+    "duration": 98,
+    "genres": [
+      "Documentary",
+      "Fantasy"
+    ],
+    "cast": [
+      {
+        "name": "Lila Frost",
+        "character": "Quinn"
+      },
+      {
+        "name": "Aisha Khan",
+        "character": "Riley"
+      },
+      {
+        "name": "Hugo Lake",
+        "character": "Jordan"
+      },
+      {
+        "name": "Zara Quinn",
+        "character": "Jordan"
+      }
+    ],
+    "director": "Marcus Vela",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": true,
+    "popular": true,
+    "topRated": false,
+    "newRelease": true
+  },
+  {
+    "id": 14,
+    "title": "Neon Requiem",
+    "description": "A small town hides a secret that refuses to stay buried.",
+    "poster": "https://picsum.photos/seed/poster14/400/600",
+    "backdrop": "https://picsum.photos/seed/back14/1280/720",
+    "rating": 7.7,
+    "releaseDate": "2020-07-06",
+    "duration": 101,
+    "genres": [
+      "Horror",
+      "Documentary"
+    ],
+    "cast": [
+      {
+        "name": "Felix Wren",
+        "character": "Riley"
+      },
+      {
+        "name": "Hugo Lake",
+        "character": "Riley"
+      },
+      {
+        "name": "Vera Cole",
+        "character": "Riley"
+      },
+      {
+        "name": "Maya Brooks",
+        "character": "Avery"
+      }
+    ],
+    "director": "Greta Lindqvist",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": true,
+    "popular": true,
+    "topRated": false,
+    "newRelease": false
+  },
+  {
+    "id": 15,
+    "title": "The Glass Cage",
+    "description": "When a deep-space signal returns, a crew must confront what they left behind.",
+    "poster": "https://picsum.photos/seed/poster15/400/600",
+    "backdrop": "https://picsum.photos/seed/back15/1280/720",
+    "rating": 7.4,
+    "releaseDate": "2020-07-02",
+    "duration": 141,
+    "genres": [
+      "Action",
+      "Mystery"
+    ],
+    "cast": [
+      {
+        "name": "Eli Carter",
+        "character": "Sam"
+      },
+      {
+        "name": "Maya Brooks",
+        "character": "Quinn"
+      },
+      {
+        "name": "Hugo Lake",
+        "character": "Avery"
+      },
+      {
+        "name": "Aisha Khan",
+        "character": "Avery"
+      }
+    ],
+    "director": "Yuki Tanaka",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": false,
+    "popular": true,
+    "topRated": false,
+    "newRelease": false
+  },
+  {
+    "id": 16,
+    "title": "Storm Vector",
+    "description": "In a flooded future, a smuggler bargains for the last dry land on Earth.",
+    "poster": "https://picsum.photos/seed/poster16/400/600",
+    "backdrop": "https://picsum.photos/seed/back16/1280/720",
+    "rating": 7.8,
+    "releaseDate": "2019-01-19",
+    "duration": 159,
+    "genres": [
+      "Thriller",
+      "Horror",
+      "Documentary"
+    ],
+    "cast": [
+      {
+        "name": "Lila Frost",
+        "character": "Riley"
+      },
+      {
+        "name": "Jonas Reid",
+        "character": "Alex"
+      },
+      {
+        "name": "Aisha Khan",
+        "character": "Alex"
+      },
+      {
+        "name": "Leo Marini",
+        "character": "Morgan"
+      }
+    ],
+    "director": "Lena Okonkwo",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": false,
+    "popular": true,
+    "topRated": false,
+    "newRelease": false
+  },
+  {
+    "id": 17,
+    "title": "Paper Empires",
+    "description": "Family, ambition, and the price of holding on for too long.",
+    "poster": "https://picsum.photos/seed/poster17/400/600",
+    "backdrop": "https://picsum.photos/seed/back17/1280/720",
+    "rating": 6.5,
+    "releaseDate": "2023-10-02",
+    "duration": 166,
+    "genres": [
+      "Crime",
+      "Adventure"
+    ],
+    "cast": [
+      {
+        "name": "Nina Vale",
+        "character": "Riley"
+      },
+      {
+        "name": "Maya Brooks",
+        "character": "Quinn"
+      },
+      {
+        "name": "Iris Moon",
+        "character": "Jordan"
+      },
+      {
+        "name": "Soren Pax",
+        "character": "Riley"
+      }
+    ],
+    "director": "Priya Nair",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": false,
+    "popular": false,
+    "topRated": false,
+    "newRelease": false
+  },
+  {
+    "id": 18,
+    "title": "Wild Frequencies",
+    "description": "In a flooded future, a smuggler bargains for the last dry land on Earth.",
+    "poster": "https://picsum.photos/seed/poster18/400/600",
+    "backdrop": "https://picsum.photos/seed/back18/1280/720",
+    "rating": 8.2,
+    "releaseDate": "2025-02-01",
+    "duration": 164,
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Mystery"
+    ],
+    "cast": [
+      {
+        "name": "Felix Wren",
+        "character": "Sam"
+      },
+      {
+        "name": "Aisha Khan",
+        "character": "Casey"
+      },
+      {
+        "name": "Leo Marini",
+        "character": "Avery"
+      },
+      {
+        "name": "Theo Hart",
+        "character": "Morgan"
+      }
+    ],
+    "director": "Marcus Vela",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": true,
+    "popular": false,
+    "topRated": true,
+    "newRelease": true,
+    "progress": 32
+  },
+  {
+    "id": 19,
+    "title": "The Ember Pact",
+    "description": "A small town hides a secret that refuses to stay buried.",
+    "poster": "https://picsum.photos/seed/poster19/400/600",
+    "backdrop": "https://picsum.photos/seed/back19/1280/720",
+    "rating": 8.2,
+    "releaseDate": "2022-09-23",
+    "duration": 159,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "cast": [
+      {
+        "name": "Caleb Stone",
+        "character": "Riley"
+      },
+      {
+        "name": "Jonas Reid",
+        "character": "Morgan"
+      },
+      {
+        "name": "Nina Vale",
+        "character": "Casey"
+      },
+      {
+        "name": "Maya Brooks",
+        "character": "Sam"
+      }
+    ],
+    "director": "Ava Sterling",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": false,
+    "popular": false,
+    "topRated": true,
+    "newRelease": false
+  },
+  {
+    "id": 20,
+    "title": "Saltwater Kings",
+    "description": "A small town hides a secret that refuses to stay buried.",
+    "poster": "https://picsum.photos/seed/poster20/400/600",
+    "backdrop": "https://picsum.photos/seed/back20/1280/720",
+    "rating": 7.8,
+    "releaseDate": "2024-06-07",
+    "duration": 124,
+    "genres": [
+      "Mystery",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "cast": [
+      {
+        "name": "Caleb Stone",
+        "character": "Sam"
+      },
+      {
+        "name": "Maya Brooks",
+        "character": "Casey"
+      },
+      {
+        "name": "Soren Pax",
+        "character": "Casey"
+      },
+      {
+        "name": "Tara Bell",
+        "character": "Riley"
+      }
+    ],
+    "director": "Ava Sterling",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": false,
+    "popular": false,
+    "topRated": false,
+    "newRelease": true,
+    "progress": 69
+  },
+  {
+    "id": 21,
+    "title": "Specter Lane",
+    "description": "A detective chases a ghost through the neon underbelly of a sleepless city.",
+    "poster": "https://picsum.photos/seed/poster21/400/600",
+    "backdrop": "https://picsum.photos/seed/back21/1280/720",
+    "rating": 6.2,
+    "releaseDate": "2023-12-14",
+    "duration": 101,
+    "genres": [
+      "Mystery",
+      "Horror"
+    ],
+    "cast": [
+      {
+        "name": "Caleb Stone",
+        "character": "Sam"
+      },
+      {
+        "name": "Eli Carter",
+        "character": "Casey"
+      },
+      {
+        "name": "Soren Pax",
+        "character": "Sam"
+      },
+      {
+        "name": "Nina Vale",
+        "character": "Avery"
+      }
+    ],
+    "director": "Lena Okonkwo",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": false,
+    "popular": false,
+    "topRated": false,
+    "newRelease": false
+  },
+  {
+    "id": 22,
+    "title": "Gravity's Edge",
+    "description": "An intimate drama about loss, memory, and the long road back to belonging.",
+    "poster": "https://picsum.photos/seed/poster22/400/600",
+    "backdrop": "https://picsum.photos/seed/back22/1280/720",
+    "rating": 7.3,
+    "releaseDate": "2020-11-08",
+    "duration": 163,
+    "genres": [
+      "War",
+      "Comedy"
+    ],
+    "cast": [
+      {
+        "name": "Leo Marini",
+        "character": "Casey"
+      },
+      {
+        "name": "Theo Hart",
+        "character": "Morgan"
+      },
+      {
+        "name": "Jonas Reid",
+        "character": "Alex"
+      },
+      {
+        "name": "Eli Carter",
+        "character": "Morgan"
+      }
+    ],
+    "director": "Omar Haddad",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": false,
+    "popular": true,
+    "topRated": false,
+    "newRelease": false
+  },
+  {
+    "id": 23,
+    "title": "The Final Reel",
+    "description": "An intimate drama about loss, memory, and the long road back to belonging.",
+    "poster": "https://picsum.photos/seed/poster23/400/600",
+    "backdrop": "https://picsum.photos/seed/back23/1280/720",
+    "rating": 7.4,
+    "releaseDate": "2021-03-26",
+    "duration": 96,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "cast": [
+      {
+        "name": "Nina Vale",
+        "character": "Sam"
+      },
+      {
+        "name": "Soren Pax",
+        "character": "Morgan"
+      },
+      {
+        "name": "Theo Hart",
+        "character": "Quinn"
+      },
+      {
+        "name": "Eli Carter",
+        "character": "Riley"
+      }
+    ],
+    "director": "Greta Lindqvist",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": false,
+    "popular": false,
+    "topRated": false,
+    "newRelease": false
+  },
+  {
+    "id": 24,
+    "title": "Burnt Letters",
+    "description": "An intimate drama about loss, memory, and the long road back to belonging.",
+    "poster": "https://picsum.photos/seed/poster24/400/600",
+    "backdrop": "https://picsum.photos/seed/back24/1280/720",
+    "rating": 9.3,
+    "releaseDate": "2022-06-09",
+    "duration": 127,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "cast": [
+      {
+        "name": "Tara Bell",
+        "character": "Riley"
+      },
+      {
+        "name": "Leo Marini",
+        "character": "Riley"
+      },
+      {
+        "name": "Vera Cole",
+        "character": "Alex"
+      },
+      {
+        "name": "Hugo Lake",
+        "character": "Riley"
+      }
+    ],
+    "director": "Sofia Bianchi",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": true,
+    "popular": true,
+    "topRated": true,
+    "newRelease": false
+  },
+  {
+    "id": 25,
+    "title": "Phantom Circuit",
+    "description": "An agent goes off-grid to expose the network that betrayed her.",
+    "poster": "https://picsum.photos/seed/poster25/400/600",
+    "backdrop": "https://picsum.photos/seed/back25/1280/720",
+    "rating": 7.6,
+    "releaseDate": "2021-12-26",
+    "duration": 157,
+    "genres": [
+      "Mystery",
+      "Crime",
+      "Comedy"
+    ],
+    "cast": [
+      {
+        "name": "Eli Carter",
+        "character": "Casey"
+      },
+      {
+        "name": "Maya Brooks",
+        "character": "Alex"
+      },
+      {
+        "name": "Leo Marini",
+        "character": "Jordan"
+      },
+      {
+        "name": "Jonas Reid",
+        "character": "Quinn"
+      }
+    ],
+    "director": "Marcus Vela",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": true,
+    "popular": false,
+    "topRated": false,
+    "newRelease": false
+  },
+  {
+    "id": 26,
+    "title": "Concrete Roses",
+    "description": "An agent goes off-grid to expose the network that betrayed her.",
+    "poster": "https://picsum.photos/seed/poster26/400/600",
+    "backdrop": "https://picsum.photos/seed/back26/1280/720",
+    "rating": 8.3,
+    "releaseDate": "2024-06-20",
+    "duration": 107,
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Thriller"
+    ],
+    "cast": [
+      {
+        "name": "Maya Brooks",
+        "character": "Riley"
+      },
+      {
+        "name": "Tara Bell",
+        "character": "Morgan"
+      },
+      {
+        "name": "Theo Hart",
+        "character": "Quinn"
+      },
+      {
+        "name": "Eli Carter",
+        "character": "Jordan"
+      }
+    ],
+    "director": "Yuki Tanaka",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": false,
+    "popular": true,
+    "topRated": true,
+    "newRelease": true
+  },
+  {
+    "id": 27,
+    "title": "The Long Dark",
+    "description": "Family, ambition, and the price of holding on for too long.",
+    "poster": "https://picsum.photos/seed/poster27/400/600",
+    "backdrop": "https://picsum.photos/seed/back27/1280/720",
+    "rating": 8.0,
+    "releaseDate": "2024-12-06",
+    "duration": 143,
+    "genres": [
+      "Mystery",
+      "Horror",
+      "Comedy"
+    ],
+    "cast": [
+      {
+        "name": "Hugo Lake",
+        "character": "Sam"
+      },
+      {
+        "name": "Tara Bell",
+        "character": "Riley"
+      },
+      {
+        "name": "Leo Marini",
+        "character": "Quinn"
+      },
+      {
+        "name": "Caleb Stone",
+        "character": "Quinn"
+      }
+    ],
+    "director": "Noah Bennett",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": false,
+    "popular": false,
+    "topRated": false,
+    "newRelease": true
+  },
+  {
+    "id": 28,
+    "title": "Voltage",
+    "description": "In a flooded future, a smuggler bargains for the last dry land on Earth.",
+    "poster": "https://picsum.photos/seed/poster28/400/600",
+    "backdrop": "https://picsum.photos/seed/back28/1280/720",
+    "rating": 8.7,
+    "releaseDate": "2024-04-17",
+    "duration": 113,
+    "genres": [
+      "Thriller",
+      "War"
+    ],
+    "cast": [
+      {
+        "name": "Theo Hart",
+        "character": "Morgan"
+      },
+      {
+        "name": "Lila Frost",
+        "character": "Avery"
+      },
+      {
+        "name": "Hugo Lake",
+        "character": "Avery"
+      },
+      {
+        "name": "Iris Moon",
+        "character": "Avery"
+      }
+    ],
+    "director": "Marcus Vela",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": false,
+    "popular": false,
+    "topRated": true,
+    "newRelease": true
+  },
+  {
+    "id": 29,
+    "title": "Marrow & Bone",
+    "description": "Two rivals are forced together on a heist that could end them both.",
+    "poster": "https://picsum.photos/seed/poster29/400/600",
+    "backdrop": "https://picsum.photos/seed/back29/1280/720",
+    "rating": 9.3,
+    "releaseDate": "2020-01-02",
+    "duration": 101,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Animation"
+    ],
+    "cast": [
+      {
+        "name": "Felix Wren",
+        "character": "Riley"
+      },
+      {
+        "name": "Maya Brooks",
+        "character": "Casey"
+      },
+      {
+        "name": "Vera Cole",
+        "character": "Riley"
+      },
+      {
+        "name": "Hugo Lake",
+        "character": "Riley"
+      }
+    ],
+    "director": "Greta Lindqvist",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": false,
+    "popular": false,
+    "topRated": true,
+    "newRelease": false
+  },
+  {
+    "id": 30,
+    "title": "Tideborn",
+    "description": "A detective chases a ghost through the neon underbelly of a sleepless city.",
+    "poster": "https://picsum.photos/seed/poster30/400/600",
+    "backdrop": "https://picsum.photos/seed/back30/1280/720",
+    "rating": 7.7,
+    "releaseDate": "2020-03-26",
+    "duration": 163,
+    "genres": [
+      "Mystery",
+      "Fantasy",
+      "Drama"
+    ],
+    "cast": [
+      {
+        "name": "Hugo Lake",
+        "character": "Sam"
+      },
+      {
+        "name": "Zara Quinn",
+        "character": "Alex"
+      },
+      {
+        "name": "Theo Hart",
+        "character": "Jordan"
+      },
+      {
+        "name": "Aisha Khan",
+        "character": "Quinn"
+      }
+    ],
+    "director": "Diego Ramirez",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": false,
+    "popular": false,
+    "topRated": false,
+    "newRelease": false,
+    "progress": 65
+  },
+  {
+    "id": 31,
+    "title": "Cinder Heart",
+    "description": "In a flooded future, a smuggler bargains for the last dry land on Earth.",
+    "poster": "https://picsum.photos/seed/poster31/400/600",
+    "backdrop": "https://picsum.photos/seed/back31/1280/720",
+    "rating": 7.6,
+    "releaseDate": "2020-12-28",
+    "duration": 123,
+    "genres": [
+      "Romance",
+      "Sci-Fi"
+    ],
+    "cast": [
+      {
+        "name": "Soren Pax",
+        "character": "Morgan"
+      },
+      {
+        "name": "Felix Wren",
+        "character": "Avery"
+      },
+      {
+        "name": "Caleb Stone",
+        "character": "Quinn"
+      },
+      {
+        "name": "Vera Cole",
+        "character": "Avery"
+      }
+    ],
+    "director": "Yuki Tanaka",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": true,
+    "popular": false,
+    "topRated": false,
+    "newRelease": false
+  },
+  {
+    "id": 32,
+    "title": "The Outer Reach",
+    "description": "When a deep-space signal returns, a crew must confront what they left behind.",
+    "poster": "https://picsum.photos/seed/poster32/400/600",
+    "backdrop": "https://picsum.photos/seed/back32/1280/720",
+    "rating": 6.9,
+    "releaseDate": "2023-02-05",
+    "duration": 111,
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Thriller"
+    ],
+    "cast": [
+      {
+        "name": "Soren Pax",
+        "character": "Riley"
+      },
+      {
+        "name": "Maya Brooks",
+        "character": "Casey"
+      },
+      {
+        "name": "Tara Bell",
+        "character": "Morgan"
+      },
+      {
+        "name": "Leo Marini",
+        "character": "Morgan"
+      }
+    ],
+    "director": "Diego Ramirez",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": false,
+    "popular": true,
+    "topRated": false,
+    "newRelease": false,
+    "progress": 18
+  },
+  {
+    "id": 33,
+    "title": "Whispered Static",
+    "description": "A relentless thriller where one decision unravels an entire city's fragile peace.",
+    "poster": "https://picsum.photos/seed/poster33/400/600",
+    "backdrop": "https://picsum.photos/seed/back33/1280/720",
+    "rating": 8.9,
+    "releaseDate": "2025-10-23",
+    "duration": 165,
+    "genres": [
+      "Horror",
+      "War"
+    ],
+    "cast": [
+      {
+        "name": "Felix Wren",
+        "character": "Alex"
+      },
+      {
+        "name": "Caleb Stone",
+        "character": "Riley"
+      },
+      {
+        "name": "Zara Quinn",
+        "character": "Quinn"
+      },
+      {
+        "name": "Theo Hart",
+        "character": "Quinn"
+      }
+    ],
+    "director": "Omar Haddad",
+    "trailerUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "trending": true,
+    "popular": false,
+    "topRated": true,
+    "newRelease": true
+  }
+]

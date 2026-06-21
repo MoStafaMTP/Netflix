@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Action",
+    "slug": "action"
+  },
+  {
+    "id": 2,
+    "name": "Adventure",
+    "slug": "adventure"
+  },
+  {
+    "id": 3,
+    "name": "Sci-Fi",
+    "slug": "sci-fi"
+  },
+  {
+    "id": 4,
+    "name": "Drama",
+    "slug": "drama"
+  },
+  {
+    "id": 5,
+    "name": "Thriller",
+    "slug": "thriller"
+  },
+  {
+    "id": 6,
+    "name": "Comedy",
+    "slug": "comedy"
+  },
+  {
+    "id": 7,
+    "name": "Horror",
+    "slug": "horror"
+  },
+  {
+    "id": 8,
+    "name": "Romance",
+    "slug": "romance"
+  },
+  {
+    "id": 9,
+    "name": "Crime",
+    "slug": "crime"
+  },
+  {
+    "id": 10,
+    "name": "Fantasy",
+    "slug": "fantasy"
+  },
+  {
+    "id": 11,
+    "name": "Mystery",
+    "slug": "mystery"
+  },
+  {
+    "id": 12,
+    "name": "Documentary",
+    "slug": "documentary"
+  },
+  {
+    "id": 13,
+    "name": "Animation",
+    "slug": "animation"
+  },
+  {
+    "id": 14,
+    "name": "War",
+    "slug": "war"
+  }
+]

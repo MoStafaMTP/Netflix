@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Mostafa Taghipour",
+    "email": "mostafa@demo.com",
+    "password": "Demo1234",
+    "avatar": "https://i.pravatar.cc/150?img=12",
+    "membership": "Premium",
+    "watchHistory": [
+      {
+        "movieId": 1,
+        "watchedAt": "2025-01-10"
+      },
+      {
+        "movieId": 5,
+        "watchedAt": "2025-02-02"
+      },
+      {
+        "movieId": 12,
+        "watchedAt": "2025-03-15"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Demo User",
+    "email": "user@demo.com",
+    "password": "Demo1234",
+    "avatar": "https://i.pravatar.cc/150?img=32",
+    "membership": "Standard",
+    "watchHistory": [
+      {
+        "movieId": 3,
+        "watchedAt": "2025-01-22"
+      },
+      {
+        "movieId": 8,
+        "watchedAt": "2025-02-19"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Sara Ahmadi",
+    "email": "sara@demo.com",
+    "password": "Demo1234",
+    "avatar": "https://i.pravatar.cc/150?img=45",
+    "membership": "Basic",
+    "watchHistory": [
+      {
+        "movieId": 2,
+        "watchedAt": "2025-03-01"
+      }
+    ]
+  }
+]
