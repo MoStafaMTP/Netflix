@@ -1,5 +1,5 @@
 # Netflix Clone — Frontend
-
+![Home Page](./public/Homepage.png)
 A production-ready, fully responsive **Netflix-style streaming UI** built as a frontend-only
 project. It uses mock JSON data (no backend required) and is optimised for deployment on
 standard **cPanel shared hosting**.
